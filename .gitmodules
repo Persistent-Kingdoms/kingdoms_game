@@ -1,0 +1,3 @@
+[submodule "mods/minetest-game"]
+	path = mods/minetest-game
+	url = https://github.com/Persistent-Kingdoms/minetest-game
