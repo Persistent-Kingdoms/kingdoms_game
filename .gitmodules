@@ -1,6 +1,6 @@
-[submodule "mods/minetest-game"]
-	path = mods/minetest-game
-	url = https://github.com/Persistent-Kingdoms/minetest-game
 [submodule "mods/kingdoms_mods"]
 	path = mods/kingdoms_mods
 	url = https://github.com/Persistent-Kingdoms/kingdoms_mods
+[submodule "mods/minetest_game"]
+	path = mods/minetest_game
+	url = https://github.com/Persistent-Kingdoms/minetest_game
