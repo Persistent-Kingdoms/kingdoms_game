@@ -4,9 +4,6 @@
 [submodule "mods/minetest_game"]
 	path = mods/minetest_game
 	url = https://github.com/Persistent-Kingdoms/minetest_game
-[submodule "3d_armor"]
-	path = 3d_armor
-	url = https://github.com/stujones11/minetest-3d_armor
 [submodule "mods/3d_armor"]
 	path = mods/3d_armor
 	url = https://github.com/stujones11/minetest-3d_armor
