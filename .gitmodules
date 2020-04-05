@@ -7,3 +7,6 @@
 [submodule "mods/3d_armor"]
 	path = mods/3d_armor
 	url = https://github.com/stujones11/minetest-3d_armor
+[submodule "mods/worldedit"]
+	path = mods/worldedit
+	url = https://github.com/Uberi/Minetest-WorldEdit
